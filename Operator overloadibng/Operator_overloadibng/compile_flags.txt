@@ -1,4 +1,0 @@
--ID:\c++\Operator overloadibng\Operator_overloadibng
--std=c++17
--target
-
