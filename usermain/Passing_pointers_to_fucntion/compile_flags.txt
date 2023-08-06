@@ -1,0 +1,4 @@
+-ID:\java\c++\usermain\Passing_pointers_to_fucntion
+-std=c++17
+-target
+

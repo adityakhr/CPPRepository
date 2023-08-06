@@ -1,0 +1,4 @@
+-ID:\java\c++\usermain\boolean
+-std=c++17
+-target
+

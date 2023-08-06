@@ -1,0 +1,4 @@
+-ID:\java\c++\usermain\cls_obj_const_
+-std=c++17
+-target
+

@@ -1,0 +1,4 @@
+-ID:\java\c++\usermain\section_9_challange
+-std=c++17
+-target
+

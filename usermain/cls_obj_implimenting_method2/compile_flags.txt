@@ -1,0 +1,4 @@
+-ID:\java\c++\usermain\cls_obj_implimenting_method2
+-std=c++17
+-target
+

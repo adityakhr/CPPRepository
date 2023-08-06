@@ -1,0 +1,4 @@
+-ID:\java\c++\usermain\project1
+-std=c++17
+-target
+

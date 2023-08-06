@@ -1,0 +1,4 @@
+-ID:\java\c++\usermain\cls_obj_deep_copy
+-std=c++17
+-target
+

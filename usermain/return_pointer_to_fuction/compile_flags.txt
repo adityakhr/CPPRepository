@@ -1,0 +1,4 @@
+-ID:\java\c++\usermain\return_pointer_to_fuction
+-std=c++17
+-target
+

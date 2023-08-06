@@ -1,0 +1,4 @@
+-ID:\c++\usermain\rand_number
+-std=c++17
+-target
+

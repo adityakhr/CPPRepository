@@ -1,0 +1,4 @@
+-ID:\java\c++\usermain\tcs_coding
+-std=c++17
+-target
+

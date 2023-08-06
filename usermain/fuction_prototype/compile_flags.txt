@@ -1,0 +1,4 @@
+-ID:\java\c++\usermain\fuction_prototype
+-std=c++17
+-target
+

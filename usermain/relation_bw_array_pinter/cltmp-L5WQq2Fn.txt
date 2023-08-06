@@ -1,0 +1,4 @@
+-ID:\c++\usermain\relation_bw_array_pinter
+-std=c++17
+-target
+

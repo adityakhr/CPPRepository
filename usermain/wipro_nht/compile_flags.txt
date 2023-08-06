@@ -1,0 +1,4 @@
+-ID:\c++\usermain\wipro_nht
+-std=c++17
+-target
+

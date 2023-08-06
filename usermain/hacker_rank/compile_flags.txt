@@ -1,0 +1,4 @@
+-ID:\java\c++\usermain\hacker_rank
+-std=c++17
+-target
+

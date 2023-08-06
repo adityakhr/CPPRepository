@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="usermain" Database="" Version="10000">
+  <Project Name="project1" Path="project1/project1.project" Active="No"/>
+  <Project Name="project2" Path="project2/project2.project" Active="No"/>
+  <Project Name="boolean" Path="boolean/boolean.project" Active="No"/>
+  <Project Name="project3" Path="project3/project3.project" Active="No"/>
+  <Project Name="Section_8_challeng" Path="Section_8_challeng/Section_8_challeng.project" Active="No"/>
+  <Project Name="if_statement" Path="if_statement/if_statement.project" Active="No"/>
+  <Project Name="nasted_if_statement" Path="nasted_if_statement/nasted_if_statement.project" Active="No"/>
+  <Project Name="conditional_operator" Path="conditional_operator/conditional_operator.project" Active="No"/>
+  <Project Name="for_loop" Path="for_loop/for_loop.project" Active="No"/>
+  <Project Name="range_for_loop" Path="range_for_loop/range_for_loop.project" Active="No"/>
+  <Project Name="do_while_loop" Path="do_while_loop/do_while_loop.project" Active="No"/>
+  <Project Name="section_9_challange" Path="section_9_challange/section_9_challange.project" Active="No"/>
+  <Project Name="c_style_string" Path="c_style_string/c_style_string.project" Active="No"/>
+  <Project Name="Math_project" Path="Math_project/Math_project.project" Active="No"/>
+  <Project Name="fuction_project" Path="fuction_project/fuction_project.project" Active="No"/>
+  <Project Name="function_overloading" Path="fuction_prototype/fuction_prototype.project" Active="No"/>
+  <Project Name="fuction_for_swapvalue" Path="fuction_for_swapvalue/fuction_for_swapvalue.project" Active="No"/>
+  <Project Name="fuction11111" Path="usermain/usermain.project" Active="No"/>
+  <Project Name="fuction_calls_work" Path="fuction_calls_work/fuction_calls_work.project" Active="No"/>
+  <Project Name="fuction_section_challange" Path="fuction_section_challange/fuction_section_challange.project" Active="No"/>
+  <Project Name="derefering_pointer" Path="declarin_pointers/declarin_pointers.project" Active="No"/>
+  <Project Name="Dynamic_memory_location_pointer" Path="Dynamic_memory_location_pointer/Dynamic_memory_location_pointer.project" Active="No"/>
+  <Project Name="relation_bw_array_pinter" Path="relation_bw_array_pinter/relation_bw_array_pinter.project" Active="No"/>
+  <Project Name="Arithmatic_pointers" Path="Arithmatic_pointers/Arithmatic_pointers.project" Active="No"/>
+  <Project Name="Passing_pointers_to_fucntion" Path="Passing_pointers_to_fucntion/Passing_pointers_to_fucntion.project" Active="No"/>
+  <Project Name="return_pointer_to_fuction" Path="return_pointer_to_fuction/return_pointer_to_fuction.project" Active="No"/>
+  <Project Name="reference_in_pointer" Path="reference_in_pointer/reference_in_pointer.project" Active="No"/>
+  <Project Name="Pointer_section_challlangr" Path="Pointer_section_challlangr/Pointer_section_challlangr.project" Active="No"/>
+  <Project Name="Cls_and_obj_access_modifier" Path="classes_and_objects/classes_and_objects.project" Active="No"/>
+  <Project Name="cls_obj_impliment_methods" Path="cls_obj_impliment_methods/cls_obj_impliment_methods.project" Active="No"/>
+  <Project Name="cls_obj_implimenting_method2" Path="cls_obj_implimenting_method2/cls_obj_implimenting_method2.project" Active="No"/>
+  <Project Name="cls_obj_construc_destruc" Path="cls_obj_construc_destruc/cls_obj_construc_destruc.project" Active="No"/>
+  <Project Name="cls_obj_defalt_const" Path="cls_obj_defalt_const/cls_obj_defalt_const.project" Active="No"/>
+  <Project Name="cls_obj_defalt_const_2" Path="cls_obj_defalt_2/cls_obj_defalt_2.project" Active="No"/>
+  <Project Name="cls_obj_constr_initialozation" Path="cls_obj_constr_initialozation/cls_obj_constr_initialozation.project" Active="No"/>
+  <Project Name="cls_obj_delegating_constr" Path="cls_obj_delegating_constr/cls_obj_delegating_constr.project" Active="No"/>
+  <Project Name="Cls_obj_defalt_constr_parameter" Path="Cls_obj_defalt_constr_parameter/Cls_obj_defalt_constr_parameter.project" Active="No"/>
+  <Project Name="cls_obj_copy_constructor" Path="cls_obj_copy_constructor/cls_obj_copy_constructor.project" Active="No"/>
+  <Project Name="cls_obj_shallow_copy" Path="cls_obj_shallow_copy/cls_obj_shallow_copy.project" Active="No"/>
+  <Project Name="cls_obj_deep_copy" Path="cls_obj_deep_copy/cls_obj_deep_copy.project" Active="No"/>
+  <Project Name="cls_obj_move+constructor" Path="cls_obj_move+constructor/cls_obj_move+constructor.project" Active="No"/>
+  <Project Name="cls_obj_const_" Path="cls_obj_const_/cls_obj_const_.project" Active="No"/>
+  <Project Name="cls_obj_static_member" Path="cls_obj_static_class_member/cls_obj_static_class_member.project" Active="No"/>
+  <Project Name="hacker_rank" Path="hacker_rank/hacker_rank.project" Active="No"/>
+  <Project Name="cls_obj_section_challlange" Path="cls_obj_section_challlange/cls_obj_section_challlange.project" Active="No"/>
+  <Project Name="string_section_challange" Path="string_section_challange/string_section_challange.project" Active="No"/>
+  <Project Name="tcs_coding" Path="tcs_coding/tcs_coding.project" Active="No"/>
+  <Project Name="std_fuction_generic_templates" Path="std_fuction_generic_templates/std_fuction_generic_templates.project" Active="No"/>
+  <Project Name="std_class_tempaltes'" Path="std_class_tempaltes'/std_class_tempaltes'.project" Active="No"/>
+  <Project Name="usermain" Path="usermain/usermain.project" Active="No"/>
+  <Project Name="stl_iterators" Path="stl_iterators/stl_iterators.project" Active="No"/>
+  <Project Name="wipro" Path="wipro/wipro.project" Active="No"/>
+  <Project Name="accenture" Path="accenture/accenture.project" Active="Yes"/>
+  <Project Name="unnamed" Path="unnamed/unnamed.project" Active="No"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug">
+      <Environment/>
+      <Project Name="project1" ConfigName="Debug"/>
+      <Project Name="project2" ConfigName="Debug"/>
+      <Project Name="boolean" ConfigName="Debug"/>
+      <Project Name="project3" ConfigName="Debug"/>
+      <Project Name="Section_8_challeng" ConfigName="Debug"/>
+      <Project Name="if_statement" ConfigName="Debug"/>
+      <Project Name="nasted_if_statement" ConfigName="Debug"/>
+      <Project Name="conditional_operator" ConfigName="Debug"/>
+      <Project Name="for_loop" ConfigName="Debug"/>
+      <Project Name="range_for_loop" ConfigName="Debug"/>
+      <Project Name="do_while_loop" ConfigName="Debug"/>
+      <Project Name="section_9_challange" ConfigName="Debug"/>
+      <Project Name="c_style_string" ConfigName="Debug"/>
+      <Project Name="Math_project" ConfigName="Debug"/>
+      <Project Name="fuction_project" ConfigName="Debug"/>
+      <Project Name="function_overloading" ConfigName="Debug"/>
+      <Project Name="fuction_for_swapvalue" ConfigName="Debug"/>
+      <Project Name="fuction11111" ConfigName="Debug"/>
+      <Project Name="fuction_calls_work" ConfigName="Debug"/>
+      <Project Name="fuction_section_challange" ConfigName="Debug"/>
+      <Project Name="derefering_pointer" ConfigName="Debug"/>
+      <Project Name="Dynamic_memory_location_pointer" ConfigName="Debug"/>
+      <Project Name="relation_bw_array_pinter" ConfigName="Debug"/>
+      <Project Name="Arithmatic_pointers" ConfigName="Debug"/>
+      <Project Name="Passing_pointers_to_fucntion" ConfigName="Debug"/>
+      <Project Name="return_pointer_to_fuction" ConfigName="Debug"/>
+      <Project Name="reference_in_pointer" ConfigName="Debug"/>
+      <Project Name="Pointer_section_challlangr" ConfigName="Debug"/>
+      <Project Name="Cls_and_obj_access_modifier" ConfigName="Debug"/>
+      <Project Name="cls_obj_impliment_methods" ConfigName="Debug"/>
+      <Project Name="cls_obj_implimenting_method2" ConfigName="Debug"/>
+      <Project Name="cls_obj_construc_destruc" ConfigName="Debug"/>
+      <Project Name="cls_obj_defalt_const" ConfigName="Debug"/>
+      <Project Name="cls_obj_defalt_const_2" ConfigName="Debug"/>
+      <Project Name="cls_obj_constr_initialozation" ConfigName="Debug"/>
+      <Project Name="cls_obj_delegating_constr" ConfigName="Debug"/>
+      <Project Name="Cls_obj_defalt_constr_parameter" ConfigName="Debug"/>
+      <Project Name="cls_obj_copy_constructor" ConfigName="Debug"/>
+      <Project Name="cls_obj_shallow_copy" ConfigName="Debug"/>
+      <Project Name="cls_obj_deep_copy" ConfigName="Debug"/>
+      <Project Name="cls_obj_move+constructor" ConfigName="Debug"/>
+      <Project Name="cls_obj_const_" ConfigName="Debug"/>
+      <Project Name="cls_obj_static_member" ConfigName="Debug"/>
+      <Project Name="hacker_rank" ConfigName="Debug"/>
+      <Project Name="cls_obj_section_challlange" ConfigName="Debug"/>
+      <Project Name="string_section_challange" ConfigName="Debug"/>
+      <Project Name="tcs_coding" ConfigName="Debug"/>
+      <Project Name="std_fuction_generic_templates" ConfigName="Debug"/>
+      <Project Name="std_class_tempaltes'" ConfigName="Debug"/>
+      <Project Name="usermain" ConfigName="Debug"/>
+      <Project Name="stl_iterators" ConfigName="Debug"/>
+      <Project Name="wipro" ConfigName="Debug"/>
+      <Project Name="accenture" ConfigName="Debug"/>
+      <Project Name="unnamed" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release">
+      <Environment/>
+      <Project Name="project1" ConfigName="Release"/>
+      <Project Name="project2" ConfigName="Release"/>
+      <Project Name="boolean" ConfigName="Release"/>
+      <Project Name="project3" ConfigName="Release"/>
+      <Project Name="Section_8_challeng" ConfigName="Release"/>
+      <Project Name="if_statement" ConfigName="Release"/>
+      <Project Name="nasted_if_statement" ConfigName="Release"/>
+      <Project Name="conditional_operator" ConfigName="Release"/>
+      <Project Name="for_loop" ConfigName="Release"/>
+      <Project Name="range_for_loop" ConfigName="Release"/>
+      <Project Name="do_while_loop" ConfigName="Release"/>
+      <Project Name="section_9_challange" ConfigName="Release"/>
+      <Project Name="c_style_string" ConfigName="Release"/>
+      <Project Name="Math_project" ConfigName="Release"/>
+      <Project Name="fuction_project" ConfigName="Release"/>
+      <Project Name="function_overloading" ConfigName="Release"/>
+      <Project Name="fuction_for_swapvalue" ConfigName="Release"/>
+      <Project Name="fuction11111" ConfigName="Release"/>
+      <Project Name="fuction_calls_work" ConfigName="Release"/>
+      <Project Name="fuction_section_challange" ConfigName="Release"/>
+      <Project Name="derefering_pointer" ConfigName="Release"/>
+      <Project Name="Dynamic_memory_location_pointer" ConfigName="Release"/>
+      <Project Name="relation_bw_array_pinter" ConfigName="Release"/>
+      <Project Name="Arithmatic_pointers" ConfigName="Release"/>
+      <Project Name="Passing_pointers_to_fucntion" ConfigName="Release"/>
+      <Project Name="return_pointer_to_fuction" ConfigName="Release"/>
+      <Project Name="reference_in_pointer" ConfigName="Release"/>
+      <Project Name="Pointer_section_challlangr" ConfigName="Release"/>
+      <Project Name="Cls_and_obj_access_modifier" ConfigName="Release"/>
+      <Project Name="cls_obj_impliment_methods" ConfigName="Release"/>
+      <Project Name="cls_obj_implimenting_method2" ConfigName="Release"/>
+      <Project Name="cls_obj_construc_destruc" ConfigName="Release"/>
+      <Project Name="cls_obj_defalt_const" ConfigName="Release"/>
+      <Project Name="cls_obj_defalt_const_2" ConfigName="Release"/>
+      <Project Name="cls_obj_constr_initialozation" ConfigName="Release"/>
+      <Project Name="cls_obj_delegating_constr" ConfigName="Release"/>
+      <Project Name="Cls_obj_defalt_constr_parameter" ConfigName="Release"/>
+      <Project Name="cls_obj_copy_constructor" ConfigName="Release"/>
+      <Project Name="cls_obj_shallow_copy" ConfigName="Release"/>
+      <Project Name="cls_obj_deep_copy" ConfigName="Release"/>
+      <Project Name="cls_obj_move+constructor" ConfigName="Release"/>
+      <Project Name="cls_obj_const_" ConfigName="Release"/>
+      <Project Name="cls_obj_static_member" ConfigName="Release"/>
+      <Project Name="hacker_rank" ConfigName="Release"/>
+      <Project Name="cls_obj_section_challlange" ConfigName="Release"/>
+      <Project Name="string_section_challange" ConfigName="Release"/>
+      <Project Name="tcs_coding" ConfigName="Release"/>
+      <Project Name="std_fuction_generic_templates" ConfigName="Release"/>
+      <Project Name="std_class_tempaltes'" ConfigName="Release"/>
+      <Project Name="usermain" ConfigName="Release"/>
+      <Project Name="stl_iterators" ConfigName="Release"/>
+      <Project Name="wipro" ConfigName="Release"/>
+      <Project Name="accenture" ConfigName="Release"/>
+      <Project Name="unnamed" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>
