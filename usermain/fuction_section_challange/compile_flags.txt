@@ -1,4 +1,0 @@
--ID:\java\c++\usermain\fuction_section_challange
--std=c++17
--target
-

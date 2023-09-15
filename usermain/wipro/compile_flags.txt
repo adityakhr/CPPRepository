@@ -1,4 +1,0 @@
--ID:\java\c++\usermain\wipro
--std=c++17
--target
-

@@ -1,4 +1,0 @@
--ID:\java\c++\usermain\Cls_obj_defalt_constr_parameter
--std=c++17
--target
-

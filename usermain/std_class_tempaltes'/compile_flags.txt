@@ -1,4 +1,0 @@
--ID:\java\c++\usermain\std_class_tempaltes'
--std=c++17
--target
-

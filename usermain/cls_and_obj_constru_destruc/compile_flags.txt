@@ -1,4 +1,0 @@
--ID:\c++\usermain\cls_and_obj_constru_destruc
--std=c++17
--target
-

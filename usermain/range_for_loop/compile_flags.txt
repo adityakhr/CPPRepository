@@ -1,4 +1,0 @@
--ID:\java\c++\usermain\range_for_loop
--std=c++17
--target
-

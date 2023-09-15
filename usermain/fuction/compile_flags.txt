@@ -1,4 +1,0 @@
--ID:\c++\username2\fuction
--std=c++17
--target
-

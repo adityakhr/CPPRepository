@@ -1,4 +1,0 @@
--ID:\java\c++\usermain\cls_obj_static_class_member
--std=c++17
--target
-

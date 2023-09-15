@@ -1,4 +1,0 @@
--ID:\java\c++\usermain\Dynamic_memory_location_pointer
--std=c++17
--target
-

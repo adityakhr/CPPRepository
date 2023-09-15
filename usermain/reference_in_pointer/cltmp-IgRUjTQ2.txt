@@ -1,4 +1,0 @@
--ID:\c++\usermain\reference_in_pointer
--std=c++17
--target
-

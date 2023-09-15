@@ -1,4 +1,0 @@
--ID:\java\c++\usermain\project3
--std=c++17
--target
-

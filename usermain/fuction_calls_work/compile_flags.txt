@@ -1,4 +1,0 @@
--ID:\java\c++\usermain\fuction_calls_work
--std=c++17
--target
-

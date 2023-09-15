@@ -1,1 +1,0 @@
-Debug/Player.cpp.o Debug/main.cpp.o   

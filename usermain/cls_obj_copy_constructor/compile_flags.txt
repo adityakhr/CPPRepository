@@ -1,4 +1,0 @@
--ID:\java\c++\usermain\cls_obj_copy_constructor
--std=c++17
--target
-

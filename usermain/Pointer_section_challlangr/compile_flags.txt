@@ -1,4 +1,0 @@
--ID:\java\c++\usermain\Pointer_section_challlangr
--std=c++17
--target
-

@@ -1,4 +1,0 @@
--ID:\java\c++\usermain\cls_obj_shallow_copy
--std=c++17
--target
-

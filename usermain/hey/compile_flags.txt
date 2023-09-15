@@ -1,4 +1,0 @@
--ID:\c++\usermain\hey
--std=c++17
--target
-

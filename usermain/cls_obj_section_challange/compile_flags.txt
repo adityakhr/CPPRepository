@@ -1,4 +1,0 @@
--ID:\c++\usermain\cls_obj_section_challange
--std=c++17
--target
-

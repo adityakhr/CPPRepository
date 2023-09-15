@@ -1,4 +1,0 @@
--ID:\java\c++\usermain\fuction_for_swapvalue
--std=c++17
--target
-
